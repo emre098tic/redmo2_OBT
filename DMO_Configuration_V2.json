@@ -14,7 +14,7 @@
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
     "CurrentVersion": 1,
-    "ExeFileName": "DMLauncher.exe",
+    "ExeFileName": "Launcher_3.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
@@ -27,7 +27,7 @@
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
     "CurrentVersion": 1,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DMLauncher.exe",
+    "RunExeFileName": "Launcher_3.exe",
     "VersionList": [
       {
         "Version": 1,
